@@ -9,6 +9,8 @@ Semester Project for the Machine Learning course of MSc AI
 
 If you haven't already, install Docker on your computer by following the instructions on the official Docker website: [Get Docker](https://docs.docker.com/get-docker/)
 
+### Go to Deployment/ folder
+
 ### Step 2: Build the container
 
 docker build -t <image_name> .
